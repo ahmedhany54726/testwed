@@ -1,0 +1,8 @@
+body{
+    background-image: url(image/img_noplastic.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position: center;
+    background-size: cover;
+   
+}
